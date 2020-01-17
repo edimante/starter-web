@@ -1,1 +1,15 @@
 Lorem ipsum dolor amet neutra pabst normcore, glossier copper mug literally williamsburg. Neutra retro stumptown 3 wolf moon, pickled cronut tofu chia venmo taxidermy banh mi adaptogen gastropub irony mumblecore. Succulents prism listicle swag, af umami mixtape cray humblebrag dreamcatcher vinyl keytar. Offal portland helvetica flexitarian cornhole raw denim man braid keffiyeh. Williamsburg locavore artisan direct trade. Pinterest shabby chic mixtape letterpress helvetica. Forage craft beer poke art party raw denim shaman polaroid.
+Most of them below are in command mode
+
+x - to delete the unwanted character
+u - to undo the last the command and U to undo the whole line
+CTRL-R to redo
+A - to append text at the end
+:wq - to save and exit
+:q! - to trash all changes
+dw - move the cursor to the beginning of the word to delete that word
+2w - to move the cursor two words forward.
+3e - to move the cursor to the end of the third word forward.
+0 (zero) to move to the start of the line.
+d2w - which deletes 2 words .. number can be changed for deleting the number of consecutive words like d3w
+dd to delete the line and 2dd to delete to line .number can be changed for deleting the number of consecutive words
